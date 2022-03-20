@@ -1,0 +1,9 @@
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/bin/Debug/KG_LAB_1.exe
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/bin/Debug/KG_LAB_1.pdb
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/obj/Debug/KG_LAB_1.csprojAssemblyReference.cache
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/obj/Debug/KG_LAB_1.csproj.CoreCompileInputs.cache
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/obj/Debug/KG_LAB_1.exe
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/obj/Debug/KG_LAB_1.pdb
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/bin/Debug/System.Drawing.Common.dll
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/bin/Debug/System.Drawing.Common.xml
+/home/maxim/RiderProjects/KG_LAB_1/KG_LAB_1/obj/Debug/KG_LAB_1.csproj.CopyComplete
